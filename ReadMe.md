@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="path_to_your_image" alt="littleLemon App Logo" width="200"/>
+  <img src="app/src/main/res/drawable/imageslemon.png" alt="littleLemon App" width="200"/>
 </div>
 
 # littleLemon App
