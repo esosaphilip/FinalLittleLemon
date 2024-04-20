@@ -41,7 +41,8 @@ Once the app is up and running, you can explore its features:
 5. **Updating Menus**: Pull down to refresh to fetch the latest menus from the backend server.
 
 6. **Settings**: Customize your littleLemon experience through the settings menu, where you can adjust preferences such as offline mode and notification settings.
-![littleLemon App Screenshot](path_to_your_screenshot)
+![littleLemon App Screenshot](drawable/lemonlittleimage.png)
+
 ## Contributing
 
 We welcome contributions to littleLemon! If you'd like to contribute new features, enhancements, or bug fixes, please follow these steps:
